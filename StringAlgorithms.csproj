@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnagramsString.cs" />
     <Compile Include="Capitalization.cs" />
     <Compile Include="MostDuplicatedValue.cs" />
     <Compile Include="Program.cs" />

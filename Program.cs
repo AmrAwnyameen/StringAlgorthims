@@ -18,6 +18,7 @@ namespace StringAlgorithms
             //Console.WriteLine(RemoveDuplicate.RemoveDuplicateString("trees are beautiful"));
             //Console.WriteLine(MostDuplicatedValue.GetMostDuplicatedValue("abrmmmmmmcadabra"));
             //Console.WriteLine(Capitalization.GetCapitalizationWord("amr awny ameen   mohamed  "));
+            //Console.WriteLine(AnagramsString.areAnagrams("abcd","dcab"));
             Console.ReadLine();
         }
     }
