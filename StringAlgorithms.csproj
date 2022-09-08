@@ -46,6 +46,7 @@
     <Compile Include="AnagramsString.cs" />
     <Compile Include="Capitalization.cs" />
     <Compile Include="MostDuplicatedValue.cs" />
+    <Compile Include="Palindrome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveDuplicate.cs" />

@@ -14,11 +14,13 @@ namespace StringAlgorithms
             //Console.WriteLine(ReverseString.GetReverseWord("Amr awny ameen"));
             //Console.WriteLine(ReverseString.GetReverseString("Amr awny ameen"));
             //Console.WriteLine(ReverseString.GetReverseStringByStack("Amr awny ameen"));
-            //Console.WriteLine(StringRotation.CheckIsStringRotation("AMRE AMRE", "EAMR"));
+            //Console.WriteLine(StringRotation.CheckIsStringRotation("AMRE", "EAMR"));
             //Console.WriteLine(RemoveDuplicate.RemoveDuplicateString("trees are beautiful"));
             //Console.WriteLine(MostDuplicatedValue.GetMostDuplicatedValue("abrmmmmmmcadabra"));
             //Console.WriteLine(Capitalization.GetCapitalizationWord("amr awny ameen   mohamed  "));
             //Console.WriteLine(AnagramsString.areAnagrams("abcd","dcab"));
+
+            Console.WriteLine(Palindrome.ifStringPalindrome("20022"));
             Console.ReadLine();
         }
     }
